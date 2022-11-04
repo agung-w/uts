@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uts</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="logout_text">logout</string>
+    <string name="invalid_login">invalid credentials</string>
+</resources>
